@@ -1,0 +1,327 @@
+Sl_No,Company,Students_Placed
+1,Capgemini,136
+2,Cognizant,118
+3,Mindtree,70
+4,Accenture,46
+5,TheMath,43
+6,Talentserve,38
+7,Nokia,33
+8,Tata Elxsi,33
+9,DXC Technology,25
+10,Virtusa,24
+11,MercedesBenz,19
+12,Perfios,19
+13,Societe Generale,18
+14,TCS,18
+15,Nandi Toyota,17
+16,Dell,16
+17,EY,16
+18,Elektrobit,15
+19,Prosim R&D Ltd,15
+20,Fidelity Investments,14
+21,Intellipaat,14
+22,Texas Instruments,14
+23,Amazon,13
+24,JP Morgan,13
+25,NSL Hub,13
+26,People10 Technosoft,13
+27,Acmegrade,12
+28,Fidelity Investment,11
+29,Oracle,11
+30,Corizo,10
+31,KPMG,10
+32,Edyoda,9
+33,Light and Wonder,9
+34,Vestian Global,9
+35,Brillio,8
+36,Continental,8
+37,Daimler Trucks,8
+38,Immensphere,8
+39,Meinhardt,8
+40,Meltronics Systemtech,8
+41,Quest Global,8
+42,Tata Technologies,8
+43,Tejas Networks,8
+44,IBM,7
+45,Koch,7
+46,Moog,7
+47,Property Pistol,7
+48,Quinbay Technologies,7
+49,Ribbon Communications,7
+50,Sagacious,7
+51,Tata Communications,7
+52,Trigo,7
+53,TuringMinds.AI,7
+54,ABInbev GCC India,6
+55,AT&T,6
+56,BlueOptima,6
+57,BPL Medical,6
+58,Draup,6
+59,Internz Learn,6
+60,IntimeTec,6
+61,Mobisys,6
+62,Pega Systems,6
+63,Pinclick,6
+64,Protogon/Progton,6
+65,Wurfel,6
+66,Yokogawa,6
+67,Academor,5
+68,Bosch,5
+69,Byju's,5
+70,Flipkart,5
+71,Genaral Aeronautics,5
+72,Indegene,5
+73,Nagravision,5
+74,Palle Technologies,5
+75,TK Elevator,5
+76,UD Trucks,5
+77,Utthunga,5
+78,Veoneer,5
+79,ABB,4
+80,Advanced Business & Healthcare,4
+81,Alcon Laboratories,4
+82,Amadeus,4
+83,Axiscades,4
+84,Clarivate,4
+85,FEIDELITY,4
+86,GE Healthcare,4
+87,GSK Global,4
+88,InsightSoftware,4
+89,Kantar,4
+90,Lead Squared,4
+91,Musigma,4
+92,Publicis Sapient,4
+93,Skillovilla,4
+94,Sonata Software,4
+95,Square Yards,4
+96,Synopsys,4
+97,TeamLease,4
+98,Teva Pharmaceuticals,4
+99,THBS,4
+100,Tiger Analytics,4
+101,TKM,4
+102,Zepto,4
+103,Aadyah,3
+104,Accord Global,3
+105,ANKO,3
+106,Avlon technologies,3
+107,BPM India,3
+108,CoinSwitch,3
+109,Collabera Digital,3
+110,Desmet,3
+111,EaveTop Softtech,3
+112,Iron Mountain,3
+113,Jaro Education,3
+114,JetHire,3
+115,Keka,3
+116,Lufthansa Technik,3
+117,My Captain,3
+118,NoBroker Hood,3
+119,Plastic Omnium,3
+120,Polycab,3
+121,Pragathi Controls,3
+122,Prop Times,3
+123,PWC,3
+124,Razor Pay,3
+125,Subex,3
+126,Tally Solutions,3
+127,Tecnicas Reunidas,3
+128,TerraLogic,3
+129,Transdigm,3
+130,UBL,3
+131,Volvo,3
+132,Yellow.ai,3
+133,Yucca IT Solutions Pvt. Ltd,3
+134,Zoom Communications,3
+135,75f,3
+136,Aarohin Technologies,2
+137,Accrete Globus,2
+138,Amagi,2
+139,ANZ,2
+140,Arcadis,2
+141,Astromeda Space,2
+142,Carelon Global,2
+143,Carl Zeiss,2
+144,Ceasefire,2
+145,Cendrol Construction,2
+146,ClimberKnowledge,2
+147,CodeYoung,2
+148,Consultants Factory,2
+149,Elanco,2
+150,ElectricPe,2
+151,Epsilon,2
+152,Evertz,2
+153,Fowler Westrup,2
+154,Hitachi Vantara,2
+155,Hiveminds,2
+156,Juspay,2
+157,Kaleyra,2
+158,Keyence India,2
+159,L&T Financial Pvt .Ltd,2
+160,Lamresearch,2
+161,Meltronics,2
+162,Microland,2
+163,Parallel Wireless,2
+164,Piramal,2
+165,PowerSchool India,2
+166,Reckonsys,2
+167,Rinex Technologies,2
+168,S&P Global,2
+169,SLN Infra,2
+170,Tactful Systems,2
+171,Taegutec India,2
+172,Teachnook,2
+173,TestVagrant Technologies,2
+174,Trelleborg,2
+175,Trellix,2
+176,Trifacta,2
+177,UHP Technologies,2
+178,Upgrad,2
+179,Zifo,2
+180,ABB Discovery Discovery Program,1
+181,Acufore,1
+182,Adobe,1
+183,Affine Analytics Pvt Ltd,1
+184,Afitech,1
+185,Alten India,1
+186,ANDPAD Inc,1
+187,AnthemBioscience,1
+188,AO Smith,1
+189,ApexIT,1
+190,Aravind Automata,1
+191,Aris Investing,1
+192,Augmedix,1
+193,Ausy Technologies,1
+194,Avaali Solutions,1
+195,AVL India,1
+196,Azent Overseas Education,1
+197,Bambooz,1
+198,BMW,1
+199,Bottomline,1
+200,Bright Champs,1
+201,Cafe Coffee Day,1
+202,CAI,1
+203,CDYmax,1
+204,Cisco,1
+205,Clay Works,1
+206,Codemonk,1
+207,Collins Aerospace,1
+208,Creant Technologies Pvt. Ltd,1
+209,CredR,1
+210,CRMIT,1
+211,Cypherwave,1
+212,Cyraacs,1
+213,D.V Mane Associate,1
+214,Dhiti Omics,1
+215,DRG Analytics,1
+216,Ecoyan,1
+217,Electrohms,1
+218,Ellsworth Adhesives,1
+219,Emplay,1
+220,Enable,1
+221,Endress,1
+222,Eveez,1
+223,Face Prep,1
+224,Ferry App Services,1
+225,Flowserve,1
+226,Furn Bamboo,1
+227,Ganit Inc,1
+228,GoPrac,1
+229,GreedyGame,1
+230,Grindwell Norton Limited,1
+231,H3 Mart,1
+232,Happy Reliable Surgeries Pvt.Ltd,1
+233,Havells,1
+234,Hetero Labs,1
+235,Hexaware,1
+236,HFFC,1
+237,IBJ,1
+238,Idrive,1
+239,IDS Next Business Solutions,1
+240,IHX,1
+241,iManage,1
+242,IMI Critical,1
+243,Increff,1
+244,Infobellit,1
+245,Infoedge,1
+246,Inmovidu,1
+247,Investosure,1
+248,InvestoXpert,1
+249,Jio Platforms,1
+250,LG Soft,1
+251,Lilac Insights,1
+252,Linde Group,1
+253,London Exchange,1
+254,Materna IPS,1
+255,Medtrix,1
+256,Megger,1
+257,Merck,1
+258,Meril Healthcare,1
+259,Methode Electronics,1
+260,Mindteck,1
+261,Miraic,1
+262,Mitsubishi Elevator,1
+263,Modern Age Coders,1
+264,Nasdaq,1
+265,Nash industries (I)Pvt.Ltd,1
+266,Nimesa,1
+267,Niqo Robotics,1
+268,Nivashan Structures,1
+269,Novel Office,1
+270,NTT Data,1
+271,Nucleibio,1
+272,Numocity,1
+273,Omnicell,1
+274,Open Financials Pvt Ltd,1
+275,PayU,1
+276,Persistent Systems,1
+277,PhonePe,1
+278,PlanB,1
+279,Polycab support force,1
+280,Prakhoj Pvt.ltd,1
+281,Pre car Mart,1
+282,Rapido,1
+283,Ravago,1
+284,Reveluen,1
+285,sake off,1
+286,Samsung,1
+287,Sansera,1
+288,Sap Labs,1
+289,Secpod,1
+290,Signal Biomedical,1
+291,Skill Intern,1
+292,Skill Vertex,1
+293,SmartSOCS,1
+294,Sterling Gtake,1
+295,Studio Amaavi,1
+296,Stylumia,1
+297,Suntec,1
+298,Taal Tech,1
+299,TECHGENIX,1
+300,Tekion,1
+301,Textron,1
+302,Toshiba,1
+303,TRACXN TECHNOLOGIES LIMITED,1
+304,Trident Automation,1
+305,TripFactory,1
+306,Tsalla Aerospace,1
+307,TVS Motors,1
+308,Urban Matrix Technology,1
+309,Uvaska-ETS,1
+310,VebuIn,1
+311,Versa Networks,1
+312,Vishwakarma,1
+313,Welldoc,1
+314,Whatfix,1
+315,Whitelion Systems,1
+316,winprotech IT solutions,1
+317,Wissen Technology,1
+318,Yantra live,1
+319,Yaradigital,1
+320,Yaskawa,1
+321,ZekeLabs Technologies,1
+322,Zensar,1
+323,Zeta,1
+324,Zomato,1
+325,Zscaler,1
+326,Zwayam,1

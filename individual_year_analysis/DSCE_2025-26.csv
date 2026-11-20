@@ -1,0 +1,337 @@
+Sl_No,Company,Students_Placed
+1,Infosys,87
+2,Capgemini,74
+3,LTIMindtree,50
+4,ACMEGRADE,41
+5,Cognizant,29
+6,Commonwealth Bank of Australia,29
+7,KPMG,27
+8,BL Kashyap,24
+9,Nous Infosystems,22
+10,Edgeverve Systems,19
+11,Ascent Circuits,18
+12,Ashok Leyland,16
+13,EY -India,16
+14,Sattva Group,15
+15,Maximus,14
+16,SkillFlow,14
+17,Averixis Solutions,13
+18,Xentric Integrated,13
+19,Brillio,11
+20,Johnson controls,11
+21,KPMG India,11
+22,QuestGlobal,11
+23,The mathco,11
+24,Zetwerk,11
+25,AXA Global,10
+26,IBM CIO Diversity,10
+27,JSW,10
+28,Learnflu,10
+29,Merceds-Benz,10
+30,Oracle(OFSS),9
+31,Consilio,8
+32,DN Solutions,8
+33,InternsElite,8
+34,JLL,8
+35,Mirafra Technologies,8
+36,Netcracker,8
+37,Pinelabs,8
+38,Quality Austria,8
+39,SKILLO VILLA,8
+40,Sopra Steria,8
+41,Studio Amaavi,8
+42,Texas Instruments,8
+43,Unlox Academy,8
+44,Accenture,7
+45,Adarsh Developers,7
+46,Aisin Automotive,7
+47,Corizo's,7
+48,Elythra Edufyi,7
+49,Enphase Energy,7
+50,Onuswork Software,7
+51,Siemens Healthineer,7
+52,7pi Innovations,7
+53,Adyapan,6
+54,Akkodis,6
+55,AllState India,6
+56,ANZ,6
+57,Averixis,6
+58,DeleteMe,6
+59,Eurofins IT solutions,6
+60,Greenway Health,6
+61,High-Technext,6
+62,ICICI BANK,6
+63,L & Y (Lumber & Yarn),6
+64,LKQ,6
+65,Nasdaq,6
+66,Navikenz,6
+67,Piramal Finance,6
+68,Plivo,6
+69,TASTEOFMOM,6
+70,Unlox,6
+71,AT&T,5
+72,Ballestra Group,5
+73,Dover India,5
+74,DSR Group,5
+75,Ericsson,5
+76,Grasim Industries,5
+77,Indegene,5
+78,Internzvalley,5
+79,LTI Mindtree,5
+80,Moglix,5
+81,NEW RELIC,5
+82,Open FX,5
+83,SAN Engineering,5
+84,SmartED,5
+85,SquareYards,5
+86,TCS,5
+87,Thomson Reuters,5
+88,Titan,5
+89,Unisys,5
+90,ABS General,4
+91,Adobe,4
+92,Arvind Smart,4
+93,Avgova Solutions,4
+94,BUNNY STUDCON,4
+95,Capstone Life,4
+96,CDM Smith,4
+97,Checkpoint,4
+98,Clarivate,4
+99,CoreEL Technologies,4
+100,Dhurin,4
+101,Edu-versity,4
+102,Elytespark Innovations,4
+103,Emplay,4
+104,Giant Eagle,4
+105,HashedIn Technologies,4
+106,Havells India,4
+107,Instawork,4
+108,Insys Digital,4
+109,InvnTree IP Service,4
+110,Koch,4
+111,MINDENIOUS,4
+112,o9 Solutions,4
+113,Pegasystems,4
+114,Perfios India,4
+115,Quantiphi Analytics,4
+116,Relyntis,4
+117,Rinex Technology,4
+118,Rubrik,4
+119,Sandisk,4
+120,SIXT Research,4
+121,StoneX,4
+122,Toyota Kirloskar Motor,4
+123,Zepto,4
+124,A.P.Moller - Maersk,3
+125,Arys Garage,3
+126,Avgova Solutions,3
+127,Benchmark,3
+128,Biocon,3
+129,Booking holdings,3
+130,BPL Medical,3
+131,Broadridge,3
+132,CGI,3
+133,CloudSEK,3
+134,CodeFrontier,3
+135,CodeHood,3
+136,Deloitte India,3
+137,Denso Kirloskar,3
+138,Elanco,3
+139,Federal Bank,3
+140,Harman International,3
+141,Jyesta Corporate,3
+142,Kantar,3
+143,Lee Spring,3
+144,Lenovo,3
+145,Microland,3
+146,Mitsubishi Power,3
+147,NVIDIA,3
+148,Onepaper Research,3
+149,PHINIA Delphi,3
+150,PMC Hydraulics,3
+151,Schneider Electric India Pvt. Ltd,3
+152,Scientific Research,3
+153,Sheng Huei Technology,3
+154,SISA,3
+155,Skillentrix,3
+156,Stanza Living,3
+157,Tata Advanced,3
+158,Taylor & Francis,3
+159,Think41,3
+160,TOYOTETSU,3
+161,Travel LYKKE,3
+162,Trianz,3
+163,VFM Systems,3
+164,Vodafone ServiceNow,3
+165,Whatfix,3
+166,Yokogawa,3
+167,Zapcom,3
+168,ALPHA INNOVATION,2
+169,Apex Auto,2
+170,Aquera India,2
+171,Arnifi India,2
+172,Bambinos.live,2
+173,Bharti Airtel Limited,2
+174,Champion Groups,2
+175,Coffee Day,2
+176,Cognite,2
+177,Essilor Luxottica,2
+178,FinSynth,2
+179,Fractal Analytics,2
+180,Garage Plug,2
+181,GPS Renewables,2
+182,Gravityworks Technology,2
+183,HCLTech,2
+184,House Construct,2
+185,IKEA,2
+186,IMEG Corp's,2
+187,Intellipaat,2
+188,IQOL Technologies,2
+189,JLL Technologies,2
+190,JLR,2
+191,KEYENCE,2
+192,Leadsquared,2
+193,Lumen Technologies,2
+194,m2nxt Solutions,2
+195,Microsoft,2
+196,Mukand Sumi,2
+197,Netgear,2
+198,Park Controls,2
+199,Paychex,2
+200,Pelatro,2
+201,Penacea Medical,2
+202,Publicis Sapient,2
+203,RitikaaWood,2
+204,SAP - STAR Program,2
+205,SASMOS HET,2
+206,SBM Offshore,2
+207,SEEDICON - FWC Inc,2
+208,SEG Automotive,2
+209,SIPAL Technologies,2
+210,ST Telemedia,2
+211,Stellantis,2
+212,SuperAGI,2
+213,Talview,2
+214,Tech Mahindra,2
+215,Techne Avinya LLP,2
+216,TECHNGLOBAL,2
+217,Triveni Turbines,2
+218,TTK Prestige,2
+219,Visa,2
+220,VOIS (vodafone),2
+221,Voya India,2
+222,Wabtec Corporation,2
+223,Yuvi Pep,2
+224,Zanskar,2
+225,Acufore,1
+226,Adtran,1
+227,Akmai,1
+228,ALTEN,1
+229,Amagi Labs,1
+230,ANSR,1
+231,ANSR(EN),1
+232,Apollo Tyres,1
+233,AppsForBharat,1
+234,Aptean,1
+235,ASSA ABLOY,1
+236,Ather Energy,1
+237,AtkinsRéalis,1
+238,Atlas Copco,1
+239,Automation Anywhere,1
+240,Autoverse Mobility,1
+241,AvioHeliTronics,1
+242,BAKER TILLY,1
+243,Bharati Robotic,1
+244,Black Olive,1
+245,Bosch Automotive,1
+246,Bounteous x Accolite,1
+247,Brainbox Consulting,1
+248,BricksToHome,1
+249,City Union Bank,1
+250,CloudThat,1
+251,CSG,1
+252,Deepwoods,1
+253,Dell Technologies,1
+254,Digiotech Solutions,1
+255,Divum Corporate Service Pvt. Ltd,1
+256,Edelman Financia,1
+257,EPAM,1
+258,Fab Realty,1
+259,FESTO,1
+260,FWC IT,1
+261,GGS Information,1
+262,Glenmore Realty,1
+263,GlowLogics,1
+264,Glowlogics,1
+265,HakWithInfy,1
+266,Hokuto Corporation,1
+267,HPE,1
+268,Hyper verge,1
+269,IBEFORUM,1
+270,Infosys Higher Package,1
+271,Infrrd Inc,1
+272,Inkers Technology,1
+273,Intelligent Science co,1
+274,ITC,1
+275,John Crane,1
+276,Jumbotail,1
+277,Kickdrum,1
+278,KPIT,1
+279,KPMG||GRCS,1
+280,KPN Farm Fresh,1
+281,LabCorp,1
+282,Lead Square,1
+283,Leucine,1
+284,Mahindra and Mahindra,1
+285,Matsushima Measure Tech Co ltd,1
+286,MEIL,1
+287,"MINEZAWA Co., Ltd",1
+288,Morphle Lab,1
+289,Mysa,1
+290,Nauvta Energy,1
+291,Netm Corp,1
+292,New Space Research,1
+293,NPST,1
+294,NxtQ Pvt Ltd,1
+295,OpenText,1
+296,OPmobility,1
+297,Prodoc.ai,1
+298,Promac Engineering,1
+299,RDC Concrete,1
+300,Relanto.ai,1
+301,ReNew,1
+302,Sage,1
+303,SASMOS HET,1
+304,Sealtite,1
+305,Semperonic Labs,1
+306,serent,1
+307,Sharpshell.ai,1
+308,Sika Interplant,1
+309,Skill Vedanth,1
+310,SkillOrbit,1
+311,Sobha Ltd,1
+312,SpikeStudio,1
+313,SpringFive,1
+314,Srico - Labworld,1
+315,Stella Homes,1
+316,SymphonyAI,1
+317,Tantragyaan Solutions,1
+318,Tata Technologies,1
+319,TCS,1
+320,Texas AI,1
+321,Textron,1
+322,TIEA Connectors,1
+323,"TOMOE SHOKAI CO., LTD",1
+324,Toyo Modec OFS,1
+325,Unilever,1
+326,Vedupskilling,1
+327,Virchow Biotech,1
+328,Visteon Corporation,1
+329,VK Building,1
+330,Western Digital,1
+331,Winman Software,1
+332,Wipfli India LLP,1
+333,YUKEN INDIA,1
+334,ZETA,1
+335,ZScaler,1
+336,Zynga,1
