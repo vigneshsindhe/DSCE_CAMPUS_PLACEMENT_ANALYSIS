@@ -17,7 +17,7 @@ This project analyzes campus placement information published on the official DSC
 
 The repository contains both yearly records and combined analysis outputs covering the academic years **2022–23 to 2025–26**.
 
-> **If you find this repository useful—especially if you are a DSCE student—please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.**
+***Please consider giving it a ⭐ on GitHub If you find this repository useful—especially if you are a DSCE student. It helps others discover the project and motivates further improvements.***
 
 ## ✨ Key Features
 
