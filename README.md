@@ -13,9 +13,11 @@
 
 ## 📌 Overview
 
-This project analyzes campus placement information published on the official DSCE placement website. Individual academic-year placement tables were collected using Python-based web scraping, cleaned, consolidated, and transformed into structured company-wise datasets for easier comparison and exploration.
+This project analyzes campus placement information published on the official DSCE placement website. Individual academic-year placement tables were collected using Python-based web scraping, cleaned, standardized, and organized for year-wise and company-wise analysis.
 
 The repository contains both yearly records and combined analysis outputs covering the academic years **2022–23 to 2025–26**.
+
+> **If you find this repository useful—especially if you are a DSCE student—please consider giving it a ⭐ on GitHub. It helps others discover the project and motivates further improvements.**
 
 ## ✨ Key Features
 
@@ -127,7 +129,7 @@ Contributions are welcome. You can improve the documentation, enhance visualizat
 
 ## ⚠️ Data and Usage Note
 
-Placement records may change or be corrected by the official source after publication. Before making decisions based on the data, verify important figures directly with DSCE or the official placement office.
+Placement records may change or be corrected by the official source after publication. Before making decisions based on the data, verify important figures directly with DSCE or the official placement records.
 
 ## 📄 License
 
@@ -140,5 +142,5 @@ Created by [Vignesh Sindhe](https://github.com/vigneshsindhe)
 ---
 
 <p align="center">
-  If this project helped you, consider giving it a ⭐ on GitHub!
+  If this project helped you, especially as a DSCE student, consider giving it a ⭐ on GitHub!
 </p>
